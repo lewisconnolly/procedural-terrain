@@ -1,0 +1,23 @@
+﻿  Game.cpp
+C:\Users\lewis\Projects\CMP505\tertut01\Engine\Game.cpp(297,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\lewis\Projects\CMP505\tertut01\Engine\Game.cpp(532,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\lewis\Projects\CMP505\tertut01\Engine\Game.cpp(541,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\lewis\Projects\CMP505\tertut01\Engine\Game.cpp(594,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\lewis\Projects\CMP505\tertut01\Engine\Game.cpp(607,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\lewis\Projects\CMP505\tertut01\Engine\Game.cpp(607,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+C:\Users\lewis\Projects\CMP505\tertut01\Engine\Game.cpp(1007,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '/Game.cpp')
+  
+  DirectXTKSimpleSample_2015.vcxproj -> C:\Users\lewis\Projects\CMP505\tertut01\Engine\Bin\Desktop_2015\x64\Debug\DirectXTKSimpleSample_2015.exe
