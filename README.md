@@ -1,7 +1,24 @@
 # procedural-terrain
-A simple game created in a DirectX 11 framework, featuring procedural terrain generation using the Midpoint Displacement/Diamond-square algorithm
+A simple game created in a DirectX 11 framework, featuring procedural terrain generation using the Midpoint Displacement/Diamond-square algorithm.
 
 Before running, download and extract [textures](https://drive.google.com/file/d/163sip4UH2kNH8MKiYmhmRBVeJBMgUM0N/view?usp=sharing) to root folder.
+
+************
+* Controls *
+************
+
+Mouse			    Camera rotation
+WASD			    Movement
+Left Click    Shoot
+Left Ctrl		  Release cursor
+Right-click   Re-focus cursor
+M				      Generate midpoint displacement terrain
+Space			    Generate sine and cosine terrain
+Shift (hold)	Increase movement speed
+F				      Smooth terrain
+C				      Respawn collectables
+Alt + Enter		Fullscreen
+Esc				    Quit
 
 <img width="1266" alt="2" src="https://github.com/user-attachments/assets/5286afab-9caa-4829-a7cc-f0d5b59e0d25">
 
